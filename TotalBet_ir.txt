@@ -1,12 +1,4 @@
-vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rAyAn-007.mAxImA.DpDnS.OrG&fp=chrome&type=ws&sni=rAyAn-007.mAxImA.DpDnS.OrG#%F0%9F%97%93%20%D9%84%DB%8C%D9%86%DA%A9%20%D8%AC%D8%AF%DB%8C%D8%AF%20%D9%87%D8%B1%20%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87%20%D8%AA%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%3A%20%40TotalBet_ir
-vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rAyAn-007.mAxImA.DpDnS.OrG&fp=chrome&type=ws&sni=rAyAn-007.mAxImA.DpDnS.OrG#%F0%9F%97%93%20%D9%84%DB%8C%D9%86%DA%A9%20%D8%AC%D8%AF%DB%8C%D8%AF%20%D9%87%D8%B1%20%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87%20%D8%AA%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%3A%20%40TotalBet_ir
-
-
 vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rAyAn-007.mAxImA.DpDnS.OrG&fp=chrome&type=ws&sni=rAyAn-007.mAxImA.DpDnS.OrG#%F0%9F%93%85%20%D9%84%DB%8C%D9%86%DA%A9%20%D8%AC%D8%AF%DB%8C%D8%AF%20%D9%87%D8%B1%20%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87%20%D8%AA%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%3A%20%40TotalBet_ir
-
-
-vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rAyAn-007.mAxImA.DpDnS.OrG&fp=chrome&type=ws&sni=rAyAn-007.mAxImA.DpDnS.OrG#%F0%9F%93%85%20%D9%84%DB%8C%D9%86%DA%A9%20%D8%AC%D8%AF%DB%8C%D8%AF%20%D9%87%D8%B1%20%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87%20%D8%AA%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%3A%20%40TotalBet_ir
-
 
 vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rAyAn-007.mAxImA.DpDnS.OrG&fp=chrome&type=ws&sni=rAyAn-007.mAxImA.DpDnS.OrG#%F0%9F%97%93%EF%B8%8F%20%D9%84%DB%8C%D9%86%DA%A9%20%D8%AC%D8%AF%DB%8C%D8%AF%20%D9%87%D8%B1%20%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87%20%D8%AA%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%3A%20%40TotalBet_ir
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.205:443?encryption=none&security=tls&sni=sni.aizrf.com&alpn=h3&fp=random&type=ws&host=sni.aizrf.com&path=%2F%3Fed%3D2560#%F0%9F%92%A0%20%D9%88%D8%A7%D8%B3%D9%87%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%201xBet%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%F0%9F%91%86

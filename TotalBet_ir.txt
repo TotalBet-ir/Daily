@@ -5,6 +5,7 @@ vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?path=%2F%3Fed%3D2560
 
 
 
+vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rAyAn-007.mAxImA.DpDnS.OrG&fp=chrome&type=ws&sni=rAyAn-007.mAxImA.DpDnS.OrG#%F0%9F%93%85%20%D9%84%DB%8C%D9%86%DA%A9%20%D8%AC%D8%AF%DB%8C%D8%AF%20%D9%87%D8%B1%20%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87%20%D8%AA%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%3A%20%40TotalBet_ir
 
 
 vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rAyAn-007.mAxImA.DpDnS.OrG&fp=chrome&type=ws&sni=rAyAn-007.mAxImA.DpDnS.OrG#%F0%9F%97%93%EF%B8%8F%20%D9%84%DB%8C%D9%86%DA%A9%20%D8%AC%D8%AF%DB%8C%D8%AF%20%D9%87%D8%B1%20%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87%20%D8%AA%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%3A%20%40TotalBet_ir
